@@ -1,4 +1,5 @@
-const data = [
+
+const info = [
   {
     id: 1,
     name: { first: "Waylin", last: "Lumsdon" },
@@ -286,4 +287,6 @@ const data = [
   }
 ];
 
-export default data;
+
+
+export default info

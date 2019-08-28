@@ -1,0 +1,50 @@
+.topbar {
+  background-color: lightskyblue;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+
+}
+.black {
+  background-color: rgb(26, 25, 25) ;
+  padding: 50px;
+}
+.white {
+  background-color: white;
+}
+.buttons {
+  background-color:  rgb(26, 25, 25) ;
+  color: white;
+
+}
+.theButtons {
+  display: flex;
+  justify-content: space-between;
+}
+.bstyle {
+  color: white;
+  background-color:  rgb(26, 25, 25) ;
+  font-size: 20px;
+  border: 0px;
+  margin: 8px;
+}
+.DataDisplay {
+  padding: 0px;
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 8px;
+  font-size: 17px;
+}
+.counter {
+  display:flex;
+  justify-content: flex-end;
+
+}
+.underline {
+color: black;
+text-decoration: underline lightskyblue;
+}
+.list {
+  list-style-position: inside;
+}
